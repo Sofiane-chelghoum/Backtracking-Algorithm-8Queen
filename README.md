@@ -4,7 +4,7 @@
 
 Backtracking is an algorithmic-technique for solving problems by trying to build a solution incrementally. It removes solutions that fail to satisfy the constraints of the problem at any point in time. For the 8-Queens problem, backtracking is used to systematically explore all possible configurations of queens on an 8×8 chessboard, ensuring that no two queens threaten each other.
 
-![Backtracking Algorithm](images/Backtracking.png)
+![Backtracking Algorithm](images/Backtraking.png)
 
 ## Define the Problem of 8-Queens
 
