@@ -1,4 +1,4 @@
-N = 8 # (size of the chessboard)
+N = 8 # (size of the chessboard "8")
 
 def solveNQueens(board, col):
 	if col == N:
@@ -26,4 +26,4 @@ def isSafe(board, row, col):
 
 board = [[0 for x in range(N)] for y in range(N)]
 if not solveNQueens(board, 0):
-	print("No solution found")
+	print("No Solution Found")
